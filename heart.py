@@ -1,7 +1,3 @@
-import math
-import random
-import pygame
-
 WIDTH, HEIGHT = 2000, 1200
 BACKGROUND_COLOR = (0, 0, 0)
 FPS = 60
